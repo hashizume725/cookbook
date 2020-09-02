@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cookbook"
+    }
+  },
+  "defaultProject": "cookbook",
+  "cli": {
+    "analytics": false
+  }
 }
